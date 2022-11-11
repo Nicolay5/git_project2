@@ -1,3 +1,4 @@
+#функция очень важная
 def superfunction():
     print("Привет Python!")
 def main():
